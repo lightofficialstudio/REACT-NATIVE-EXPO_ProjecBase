@@ -25,10 +25,10 @@
 
 ---
 
-## ⚙️ Tech Stack
-| Logo | Tech | Description |
+## ⚙️ Tech Stac
+k| Logo | Tech | Description |
 |------|------|-------------|
-| ⚛ <img src="https://reactnative.dev/img/header_logo.svg" width="25"/> | **React Native (Expo)** | Cross-platform Mobile App Framework |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="25"/> | **React Native (Expo)** | Cross-platform Mobile App Framework |
 |  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="25"/> | **TypeScript** | Static typing เพื่อความปลอดภัยของโค้ด |
 |  | **Styled Components / RN StyleSheet** | ใช้จัดการ UI และ Theme |
 |  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="25"/> | **Expo** | Build/Deploy ง่ายบน iOS และ Android |
